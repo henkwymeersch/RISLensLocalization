@@ -3,6 +3,7 @@
 
 ## Summary
 The matlab code (main.m) generates a 3D environment with an intelligent reconfigurable lens and a transmitter. The transmitter sends a narrowband signal to the lens. Different phase profiles at the lens are used to generate a scalar stream of observations, from which the transmitter location is estimated. The script generates 3 figures from the following paper: 
+
 Zohair Abu-Shaban, Kamran Keykhosravi, Musa Furkan Keskin, George C. Alexandropoulos, Gonzalo Seco-Granados, Henk Wymeersch, "Near-field Localization with a Reconfigurable Intelligent Surface Acting as Lens", arXiv:2010.05617.
 
 ## Main parameters
