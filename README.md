@@ -33,4 +33,4 @@ RIS.beamType='random'; % 'position', 'direction', 'random'
 UE.covariance=0.01*diag([1;1;1]);   % UE a priori covariance
 UE.distances=[0.15 1 1.5 2 3 4 6 8 10 12 15]; % UE distances
 ```
-These paramaters can be changed to obtain different results. 
+These parameters can be changed to obtain different results. 
